@@ -1,0 +1,37 @@
+## SQAlogy API Automation Project With Newman Reporting
+
+## About this project
+This is employee api automation project.This project is faclated to create employee,update employee,get employee list and search employee with different parameter.
+Here we have create automation and generate a newman report.
+
+## Pre-reuqisite
+-Node.js
+
+## Tools and Technology
+-Postman
+-VS Code
+
+## API Documentation [Employee API Documentation:] (https://documenter.getpostman.com/view/49956893/2sBYHNX3hV)
+
+## How to run this project
+`````Clone Project````
+``bash
+https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
+````
+## Hit the command
+``bash
+npm init -y
+````
+``bash
+npm i newman
+````
+``bash
+npx newman run [collection] -e["environment"]
+````
+``bash
+npm i newman-reporter-htmlextra
+````
+``bash
+node .\report.js
+````
+
