@@ -28,9 +28,9 @@ Make sure the following software is installed on your system:
 [Employee API Documentation](https://documenter.getpostman.com/view/49956893/2sBYHNX3hV)
 
 ## How to run this project
-`````Clone Project````
+### Clone Project
 ``bash
-https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
+git clone https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
 ````
 ## Hit the command
 ``bash
