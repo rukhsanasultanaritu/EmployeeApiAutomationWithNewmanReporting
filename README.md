@@ -61,7 +61,7 @@ The following screenshot shows the Newman HTML test execution report.
 
 ### Project Links
 
-GitHub Repository:https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
+[GitHub Repository](https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git)
 
 ## Author
 Rukhsana Sultana Ritu | CSE Graduate | Aspiring Software QA Engineer
