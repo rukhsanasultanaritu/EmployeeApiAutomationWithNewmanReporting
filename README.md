@@ -54,7 +54,11 @@ npm i newman-reporter-htmlextra
 ```bash
 node .\report.js
 ```
+## Newman HTML Report
+The following screenshot shows the Newman HTML test execution report.
+<img width="955" height="448" alt="image" src="https://github.com/user-attachments/assets/367d473b-1e1c-4a06-a043-decbb4e0a77d" />
+<img width="952" height="448" alt="image" src="https://github.com/user-attachments/assets/7390b19a-7d85-4ae5-9c5c-f4fc3eda76a1" />
+
 
 ## Author
-Rukhsana Sultana Ritu
-CSE Graduate | Aspiring Software QA Engineer
+Rukhsana Sultana Ritu | CSE Graduate | Aspiring Software QA Engineer
