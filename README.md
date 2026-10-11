@@ -29,9 +29,10 @@ Make sure the following software is installed on your system:
 
 ## How to run this project
 ### Clone Project
-``bash
+
+```bash
 git clone https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
-````
+```
 ## Hit the command
 ``bash
 npm init -y
