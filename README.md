@@ -15,12 +15,13 @@ Here we have create automation and generate a newman report.
 
 ## Prerequisites
 Make sure the following software is installed on your system:
--Node.js
--Postman
--Visual Studio Code
+- Node.js
+- Postman
+- Visual Studio Code
 
 ## Tools and Technologies
 - Postman 
--Visual Studio Code 
--Node.js 
--Git and GitHub
+- Visual Studio Code 
+- Node.js 
+- Git and GitHub
+## API Documentation [Employee API Documentation:] (https://documenter.getpostman.com/view/49956893/2sBYHNX3hV)
