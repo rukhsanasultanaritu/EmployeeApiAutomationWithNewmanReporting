@@ -26,3 +26,29 @@ Make sure the following software is installed on your system:
 - Git and GitHub
 ## API Documentation 
 [Employee API Documentation:] (https://documenter.getpostman.com/view/49956893/2sBYHNX3hV)
+
+## How to run this project
+`````Clone Project````
+``bash
+https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
+````
+## Hit the command
+``bash
+npm init -y
+````
+``bash
+npm i newman
+````
+``bash
+npx newman run [collection] -e["environment"]
+````
+``bash
+npm i newman-reporter-htmlextra
+````
+``bash
+node .\report.js
+````
+
+## Author
+Rukhsana Sultana Ritu
+CSE Graduate | Aspiring Software QA Engineer
