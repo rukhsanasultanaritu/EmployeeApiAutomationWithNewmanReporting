@@ -5,16 +5,22 @@ This is employee api automation project.This project is faclated to create emplo
 Here we have create automation and generate a newman report.
 
 ## Features
--Employee Creation API Testing
--Employee Update API Testing
--Get All Employees API Testing
--Employee Search with Different Parameters
--API Response Validation
--Automated Test Execution with Newman
--HTML Test Report Generation
+- Employee Creation API Testing
+- Employee Update API Testing
+- Get All Employees API Testing
+- Employee Search with Different Parameters
+- API Response Validation
+- Automated Test Execution with Newman
+- HTML Test Report Generation
 
 ## Prerequisites
 Make sure the following software is installed on your system:
 -Node.js
 -Postman
 -Visual Studio Code
+
+## Tools and Technologies
+- Postman 
+-Visual Studio Code 
+-Node.js 
+-Git and GitHub
