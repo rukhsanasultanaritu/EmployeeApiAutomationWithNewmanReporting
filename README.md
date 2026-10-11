@@ -33,22 +33,27 @@ Make sure the following software is installed on your system:
 ```bash
 git clone https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
 ```
-## Hit the command
-``bash
+## Run the Commands
+### Step 1: Initialize npm
+```bash
 npm init -y
-````
-``bash
+```
+### Step 2: Install Newman
+```bash
 npm i newman
-````
-``bash
-npx newman run [collection] -e["environment"]
-````
-``bash
+```
+### Step 3: Run the Postman Collection
+```bash
+npx newman run collection.json -e "environment.json"
+```
+### Step 4: Install HTML Extra Reporter
+```bash
 npm i newman-reporter-htmlextra
-````
-``bash
+```
+### Step 5: Generate the HTML Report
+```bash
 node .\report.js
-````
+```
 
 ## Author
 Rukhsana Sultana Ritu
