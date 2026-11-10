@@ -56,8 +56,10 @@ node .\report.js
 ```
 ## Newman HTML Report
 The following screenshot shows the Newman HTML test execution report.
-<img width="955" height="448" alt="image" src="https://github.com/user-attachments/assets/367d473b-1e1c-4a06-a043-decbb4e0a77d" />
-<img width="952" height="448" alt="image" src="https://github.com/user-attachments/assets/7390b19a-7d85-4ae5-9c5c-f4fc3eda76a1" />
+<img width="1731" height="1610" alt="image" src="https://github.com/user-attachments/assets/e8390093-8375-4b42-a750-6ee39ab9ef6e" />
+
+<img width="1731" height="1032" alt="image" src="https://github.com/user-attachments/assets/6f063f90-eea0-4293-823a-9f46aa9de170" />
+
 
 ### Project Links
 
